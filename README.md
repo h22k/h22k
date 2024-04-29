@@ -1,16 +1,41 @@
-### Hi there 👋
+<h2> Hi, I'm Halil Hakan Karabay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<!--
-**h22k/h22k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-hakan-karabay)
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost everything about computer science especially OS, computer networks, distrubuted systems and system design. The languages I use daily are PHP, GO, Nodejs and Javascript. I enjoy working on complex problems, solving those problems is priceless for me! Nowadays I'm playing with GO to be close to OS, and I also love discovering other software diciplines like mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏽‍💻 Professional Skills
+<hr>
+
+ - **Languages**: PHP, GO, Nodejs and Javascript
+ - **Database**: PostgreSQL, MySQL, MongoDB, Redis
+ - **Technologies**: Docker, AWS, Jenkins, Github Actions, Testing
+ - **Queue**: RabbitMQ
+ - **Frameworks**: Laravel, Symfony, Express, Nestjs
+
+## 🥴 Non-Professional Skills
+<hr>
+
+ - **Frameworks**: React, Vue, React Native
+ - **Logging**: Prometheus, NewRelic
+ - **Utils**: Bash, Linux
+ - **Testing**: Jest, Mocha
+
+## 🏢 Open Source Projects
+<hr>
+<table>
+    <tbody>
+      <tr>
+      <td><a href="https://github.com/h22k/logma"><b>🍩 &nbsp;logma</b></a></td>
+      <td>Logma is a logging library for small projects which doesn't need huge logging libraries.</td>
+    </tr>
+    <tr>
+      <td><b>💡 &nbsp;play-with-philips (90% WIP)</b></td>
+      <td>play-with-philips is a library that helps you control your philips devices from your terminal with communicating with your philips bridge.</td>
+    </tr>  
+    <tr>
+      <td><b>📦 &nbsp;mng-kargo-php-sdk (WIP)</b></td>
+      <td>mng-kargo-php-sdk is a SDK for PHP. Mng Kargo is a shipping company in Turkey.</td>
+    </tr>  
+    </tbody>
+</table>
