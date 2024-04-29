@@ -5,7 +5,6 @@
 I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost everything about computer science especially OS, computer networks, distrubuted systems and system design. The languages I use daily are PHP, GO, Nodejs and Javascript. I enjoy working on complex problems, solving those problems is priceless for me! Nowadays I'm playing with GO to be close to OS, and I also love discovering other software diciplines like mobile development.
 
 ## 🧑🏽‍💻 Professional Skills
-<hr>
 
  - **Languages**: PHP, GO, Nodejs and Javascript
  - **Database**: PostgreSQL, MySQL, MongoDB, Redis
@@ -14,7 +13,6 @@ I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost every
  - **Frameworks**: Laravel, Symfony, Express, Nestjs
 
 ## 🥴 Non-Professional Skills
-<hr>
 
  - **Frameworks**: React, Vue, React Native
  - **Logging**: Prometheus, NewRelic
@@ -22,7 +20,7 @@ I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost every
  - **Testing**: Jest, Mocha
 
 ## 🏢 Open Source Projects
-<hr>
+
 <table>
     <tbody>
       <tr>
