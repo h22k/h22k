@@ -1,7 +1,5 @@
 <h2> Hi, I'm Halil Hakan Karabay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-hakan-karabay)
-
 I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost everything about computer science especially OS, computer networks, distrubuted systems and system design. The languages I use daily are PHP, GO, Nodejs and Javascript. I enjoy working on complex problems, solving those problems is priceless for me! Nowadays I'm playing with GO to be close to OS, and I also love discovering other software diciplines like mobile development.
 
 ## 🧑🏽‍💻 Professional Skills
