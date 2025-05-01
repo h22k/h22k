@@ -26,15 +26,7 @@ I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost every
       <tr>
       <td><a href="https://github.com/h22k/logma"><b>🍩 &nbsp;logma</b></a></td>
       <td>Logma is a logging library for small projects which doesn't need huge logging libraries.</td>
-    </tr>
-    <tr>
-      <td><b>💡 &nbsp;play-with-philips (90% WIP)</b></td>
-      <td>play-with-philips is a library that helps you control your philips devices from your terminal with communicating with your philips bridge. written in GO.</td>
-    </tr>  
-    <tr>
-      <td><a href="https://github.com/h22k/mng-kargo-php-sdk"><b>📦 &nbsp;mng-kargo-php-sdk (WIP)</b></a></td>
-      <td>mng-kargo-php-sdk is a SDK for PHP. Mng Kargo is a shipping company in Turkey.</td>
-    </tr>  
+    </tr> 
     </tbody>
 </table>
 
