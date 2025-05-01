@@ -10,13 +10,13 @@ I'm a Full-Stack Developer, highly Back-End Side. I'm interested in almost every
  - **Database**: PostgreSQL, MySQL, MongoDB, Redis
  - **Technologies**: Docker, AWS, Jenkins, Github Actions, Testing
  - **Queue**: RabbitMQ
- - **Frameworks**: Laravel, Symfony, Express, Nestjs
+ - **Frameworks**: Laravel, Symfony, Express, Nestjs, Fiber
 
 ## 🥴 Non-Professional Skills
 
  - **Frameworks**: React, Vue, React Native
  - **Logging**: Prometheus, NewRelic
- - **Utils**: Bash, Linux
+ - **Utils**: Bash, Linux, Grafana, Pyroscope
  - **Testing**: Jest, Mocha
 
 ## 🏢 Open Source Projects
